@@ -29,7 +29,7 @@
   * > Desafío
   * > Prueba
 * Lección 2
-  * > Prototipo 2_ animales 
+  * > Prototipo 2_ animales_corriendo
   * > Laboratorio
   * > Desafío: https://github.com/xJulianxSoto/Indice_repositiry/blob/main/Challenges/Challenge_2.unitypackage
   * > Prueba
