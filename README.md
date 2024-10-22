@@ -29,9 +29,9 @@
   * > Desafío
   * > Prueba
 * Lección 2
-  * > Prototipo 2_ animales_corriendo
+  * > Prototipo: https://github.com/xJulianxSoto/Indice_repositiry/blob/main/Challenges/Challenge_2.unitypackage
   * > Laboratorio
-  * > Desafío: https://github.com/xJulianxSoto/Indice_repositiry/blob/main/Challenges/Challenge_2.unitypackage
+  * > Desafío:  https://github.com/xJulianxSoto/Indice_repositiry/blob/main/Challenges_prototypes_2/prototipo_2.unitypackage 
   * > Prueba
 * Lección 3
   * > Tutorial
