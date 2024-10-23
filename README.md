@@ -29,9 +29,9 @@
   * > Desafío
   * > Prueba
 * Lección 2
-  * > Prototipo: https://github.com/xJulianxSoto/Indice_repositiry/blob/main/Challenges/Challenge_2.unitypackage
+  * > Prototipo: https://github.com/xJulianxSoto/Indice_repositiry/tree/75863bfa3f832f0086ae685d9e9c11d7df7f0740/Actividades_numero_2
   * > Laboratorio
-  * > Desafío:  https://github.com/xJulianxSoto/Indice_repositiry/blob/main/Challenges_prototypes_2/prototipo_2.unitypackage 
+  * > Desafío: https://github.com/xJulianxSoto/Indice_repositiry/tree/75863bfa3f832f0086ae685d9e9c11d7df7f0740/Actividades_numero_2
   * > Prueba
 * Lección 3
   * > Tutorial
