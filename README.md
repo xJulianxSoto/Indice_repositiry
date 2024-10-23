@@ -23,17 +23,17 @@
 
 ## Código Fuente
 
-* Lección 1
+* Prototipo 1
   * > [Prototipo](https://github.com/xJulianxSoto/Indice_repositiry/tree/fdb82fc23818b0731736b0d67a83d114a0f2a1fa/Actividades_numero_1)
   * > Laboratorio
   * > [Desafio](https://github.com/xJulianxSoto/Indice_repositiry/tree/fdb82fc23818b0731736b0d67a83d114a0f2a1fa/Actividades_numero_1)
   * > Prueba
-* Lección 2
+* Prototipo 2
   * > [Prototipo](https://github.com/xJulianxSoto/Indice_repositiry/tree/75863bfa3f832f0086ae685d9e9c11d7df7f0740/Actividades_numero_2)
   * > Laboratorio
   * > [Desafio](https://github.com/xJulianxSoto/Indice_repositiry/tree/75863bfa3f832f0086ae685d9e9c11d7df7f0740/Actividades_numero_2)
   * > Prueba
-* Lección 3
+* Prototipo 3
   * > Tutorial
   * > Laboratorio
   * > Desafío
