@@ -32,6 +32,7 @@
   * > Prototipo: https://github.com/xJulianxSoto/Indice_repositiry/tree/75863bfa3f832f0086ae685d9e9c11d7df7f0740/Actividades_numero_2
   * > Laboratorio
   * > Desafío: https://github.com/xJulianxSoto/Indice_repositiry/tree/75863bfa3f832f0086ae685d9e9c11d7df7f0740/Actividades_numero_2
+  * > [Desafio](https://github.com/Programacion-de-Videojuego/Prototipo2/blob/3dd5c11c5f75333bdbd92ddd6e7cd88c3c0fb40c/Prototipo1.l.unitypackage)
   * > Prueba
 * Lección 3
   * > Tutorial
