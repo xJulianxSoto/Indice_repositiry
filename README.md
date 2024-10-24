@@ -33,8 +33,8 @@
   * > Laboratorio
   * > [Desafio](https://github.com/xJulianxSoto/Indice_repositiry/tree/75863bfa3f832f0086ae685d9e9c11d7df7f0740/Actividades_numero_2)
   * > Prueba
-* Prototipo 3
-  * > Tutorial
+* Prototipo 3 
+  * >  [Prototipo](https://github.com/xJulianxSoto/Indice_repositiry/tree/b35fee999ff957803ebae74352a25de67c108dc7/Actividades_numero_3)
   * > Laboratorio
   * > Desafío
   * > Prueba
