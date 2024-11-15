@@ -34,17 +34,17 @@
   * > [Desafio](https://github.com/xJulianxSoto/Indice_repositiry/tree/75863bfa3f832f0086ae685d9e9c11d7df7f0740/Actividades_numero_2)
   * > Prueba
 * Prototipo 3 
-  * >  [Prototipo](https://github.com/xJulianxSoto/Indice_repositiry/tree/b35fee999ff957803ebae74352a25de67c108dc7/Actividades_numero_3)
+  * > [Prototipo](https://github.com/xJulianxSoto/Indice_repositiry/tree/b5f5d15ab057316d3396b359ef9aea5d1fe14f9f/Prototipo_5)
   * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Desafío 
+  * > [Capturas](https://github.com/xJulianxSoto/Indice_repositiry/tree/b5f5d15ab057316d3396b359ef9aea5d1fe14f9f/Prototipo_5/Capturas)
 * Lección 4
-  * > Tutorial
+  * >  
   * > Laboratorio
   * > Desafío
   * > Prueba
-* Lección 5
-  * > Tutorial
+* Lección 5 
+  * > [Prototipo](https://github.com/xJulianxSoto/Indice_repositiry/tree/b5f5d15ab057316d3396b359ef9aea5d1fe14f9f/Prototipo_5)
   * > Laboratorio
   * > Desafío
   * > Prueba
